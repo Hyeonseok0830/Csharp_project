@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{880C5697-8833-4DAF-B4D7-2A2E8259B374}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>national_geographic</RootNamespace>
+    <AssemblyName>national geographic</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroFramework.RunTime.1.2.0.3\lib\net40-Client\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.16.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory.Designer.cs">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="memberjoin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="memberjoin.Designer.cs">
+      <DependentUpon>memberjoin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory.resx">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="memberjoin.resx">
+      <DependentUpon>memberjoin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="map.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\map.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\character\hs1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\character\hs2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\character\hs3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\character\hs4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\character\hs5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\character\hs6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\character\hs7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\character\hs8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\object\tree1.png" />
+    <None Include="img\object\tree2.png" />
+    <None Include="img\object\tree3.png" />
+    <None Include="img\object\stone.png" />
+    <None Include="img\object\firewood.png" />
+    <None Include="img\interface\menu.png" />
+    <None Include="img\interface\menuback.png" />
+    <None Include="img\interface\labelback.png" />
+    <None Include="img\weapon\weapon2-0.png" />
+    <None Include="img\animal\animal.png" />
+    <None Include="img\object\meat.png" />
+    <None Include="img\character\↑\u0.png" />
+    <None Include="img\character\↑\u1.png" />
+    <None Include="img\character\↑\u2.png" />
+    <None Include="img\character\↑\u3.png" />
+    <None Include="img\character\↑\u4.png" />
+    <None Include="img\character\↗\ur0.png" />
+    <None Include="img\character\↗\ur1.png" />
+    <None Include="img\character\↗\ur2.png" />
+    <None Include="img\character\↗\ur3.png" />
+    <None Include="img\character\↗\ur4.png" />
+    <None Include="img\character\→\r0.png" />
+    <None Include="img\character\→\r1.png" />
+    <None Include="img\character\→\r2.png" />
+    <None Include="img\character\→\r3.png" />
+    <None Include="img\character\→\r4.png" />
+    <None Include="img\character\↘\rd0.png" />
+    <None Include="img\character\↘\rd1.png" />
+    <None Include="img\character\↘\rd2.png" />
+    <None Include="img\character\↘\rd3.png" />
+    <None Include="img\character\↘\rd4.png" />
+    <None Include="img\character\↓\d0.png" />
+    <None Include="img\character\↓\d1.png" />
+    <None Include="img\character\↓\d2.png" />
+    <None Include="img\character\↓\d3.png" />
+    <None Include="img\character\↓\d4.png" />
+    <None Include="img\character\↙\dl0.png" />
+    <None Include="img\character\↙\dl1.png" />
+    <None Include="img\character\↙\dl2.png" />
+    <None Include="img\character\↙\dl3.png" />
+    <None Include="img\character\↙\dl4.png" />
+    <None Include="img\character\←\l0.png" />
+    <None Include="img\character\←\l1.png" />
+    <None Include="img\character\←\l2.png" />
+    <None Include="img\character\←\l3.png" />
+    <None Include="img\character\←\l4.png" />
+    <None Include="img\character\↖\lu0.png" />
+    <None Include="img\character\↖\lu1.png" />
+    <None Include="img\character\↖\lu2.png" />
+    <None Include="img\character\↖\lu3.png" />
+    <None Include="img\character\↖\lu4.png" />
+    <None Include="img\character\↑\uz0.png" />
+    <None Include="img\character\↗\urz0.png" />
+    <None Include="img\character\→\rz0.png" />
+    <None Include="img\character\↘\rdz0.png" />
+    <None Include="img\character\↓\dz0.png" />
+    <None Include="img\character\↙\dlz0.png" />
+    <None Include="img\character\←\lz0.png" />
+    <None Include="img\character\↖\luz0.png" />
+    <None Include="img\object\handfirewood.png" />
+    <None Include="img\weapon\weapon1.png" />
+    <None Include="img\object\handfire.png" />
+    <None Include="img\brightmap.png" />
+    <None Include="img\brightmap08.png" />
+    <None Include="img\brightmap10.png" />
+    <None Include="img\object\fence-0.png" />
+    <None Include="img\object\fence-1.png" />
+    <None Include="img\character\x↑\xu0.png" />
+    <None Include="img\character\x↑\xu1.png" />
+    <None Include="img\character\x↑\xu2.png" />
+    <None Include="img\character\x↑\xu3.png" />
+    <None Include="img\character\x↑\xu4.png" />
+    <None Include="img\character\x↑\xuz0.png" />
+    <None Include="img\character\x↗\xur0.png" />
+    <None Include="img\character\x↗\xur1.png" />
+    <None Include="img\character\x↗\xur2.png" />
+    <None Include="img\character\x↗\xur3.png" />
+    <None Include="img\character\x↗\xur4.png" />
+    <None Include="img\character\x↗\xurz0.png" />
+    <None Include="img\character\x→\xr0.png" />
+    <None Include="img\character\x→\xr1.png" />
+    <None Include="img\character\x→\xr2.png" />
+    <None Include="img\character\x→\xr3.png" />
+    <None Include="img\character\x→\xr4.png" />
+    <None Include="img\character\x→\xrz0.png" />
+    <None Include="img\character\x↘\xrd0.png" />
+    <None Include="img\character\x↘\xrd1.png" />
+    <None Include="img\character\x↘\xrd2.png" />
+    <None Include="img\character\x↘\xrd3.png" />
+    <None Include="img\character\x↘\xrd4.png" />
+    <None Include="img\character\x↘\xrdz0.png" />
+    <None Include="img\character\x↓\xd0.png" />
+    <None Include="img\character\x↓\xd1.png" />
+    <None Include="img\character\x↓\xd2.png" />
+    <None Include="img\character\x↓\xd3.png" />
+    <None Include="img\character\x↓\xd4.png" />
+    <None Include="img\character\x↓\xdz0.png" />
+    <None Include="img\character\x↙\xdl0.png" />
+    <None Include="img\character\x↙\xdl1.png" />
+    <None Include="img\character\x↙\xdl2.png" />
+    <None Include="img\character\x↙\xdl3.png" />
+    <None Include="img\character\x↙\xdl4.png" />
+    <None Include="img\character\x↙\xdlz0.png" />
+    <None Include="img\character\x←\xl0.png" />
+    <None Include="img\character\x←\xl1.png" />
+    <None Include="img\character\x←\xl2.png" />
+    <None Include="img\character\x←\xl3.png" />
+    <None Include="img\character\x←\xl4.png" />
+    <None Include="img\character\x←\xlz0.png" />
+    <None Include="img\character\x↖\xlu0.png" />
+    <None Include="img\character\x↖\xlu1.png" />
+    <None Include="img\character\x↖\xlu2.png" />
+    <None Include="img\character\x↖\xlu3.png" />
+    <None Include="img\character\x↖\xlu4.png" />
+    <None Include="img\character\x↖\xluz0.png" />
+    <None Include="img\character\attack\ad0.png" />
+    <None Include="img\character\attack\adl0.png" />
+    <None Include="img\character\attack\al0.png" />
+    <None Include="img\character\attack\alu0.png" />
+    <None Include="img\character\attack\ard.png" />
+    <None Include="img\character\attack\au0.png" />
+    <None Include="img\character\attack\aur0.png" />
+    <None Include="img\character\attack\axr0.png" />
+    <None Include="img\character\attack\ar0.png" />
+    <None Include="img\character\attack\ard0.png" />
+    <None Include="img\animal\g\g_d.png" />
+    <None Include="img\animal\g\g_dl.png" />
+    <None Include="img\animal\g\g_dr.png" />
+    <None Include="img\animal\g\g_l.png" />
+    <None Include="img\animal\g\g_r.png" />
+    <None Include="img\animal\g\g_u.png" />
+    <None Include="img\animal\g\g_ul.png" />
+    <None Include="img\animal\g\g_ur.png" />
+    <None Include="mapx2.png" />
+    <None Include="img\animal\pig\p_d.png" />
+    <None Include="img\animal\pig\p_dl.png" />
+    <None Include="img\animal\pig\p_dr.png" />
+    <None Include="img\animal\pig\p_l.png" />
+    <None Include="img\animal\pig\p_r.png" />
+    <None Include="img\animal\pig\p_u.png" />
+    <None Include="img\animal\pig\p_ul.png" />
+    <None Include="img\animal\pig\p_ur.png" />
+    <None Include="img\interface\status.png" />
+    <None Include="img\interface\statusback.png" />
+    <None Include="img\object\fencedoor.png" />
+    <None Include="img\object\fencedoor1.png" />
+    <None Include="img\monster\ghost\g_d.png" />
+    <None Include="img\monster\ghost\g_dl.png" />
+    <None Include="img\monster\ghost\g_dr.png" />
+    <None Include="img\monster\ghost\g_l.png" />
+    <None Include="img\monster\ghost\g_r.png" />
+    <None Include="img\monster\ghost\g_u.png" />
+    <None Include="img\monster\ghost\g_ul.png" />
+    <None Include="img\monster\ghost\g_ur.png" />
+    <None Include="img\character\weapon\weapon1.png" />
+    <None Include="img\monster\pig\p_d.png" />
+    <None Include="img\monster\pig\p_dl.png" />
+    <None Include="img\monster\pig\p_dr.png" />
+    <None Include="img\monster\pig\p_l.png" />
+    <None Include="img\monster\pig\p_r.png" />
+    <None Include="img\monster\pig\p_u.png" />
+    <None Include="img\monster\pig\p_ul.png" />
+    <None Include="img\monster\pig\p_ur.png" />
+    <None Include="img\map\brightmap.png" />
+    <None Include="img\map\brightmap08.png" />
+    <None Include="img\map\brightmap10.png" />
+    <None Include="img\map\map.png" />
+    <None Include="img\interface\Login\EXIT1.png" />
+    <None Include="img\interface\Login\EXIT2.png" />
+    <None Include="img\interface\Login\Join1.png" />
+    <None Include="img\interface\Login\Join2.png" />
+    <None Include="img\interface\Login\Login1.png" />
+    <None Include="img\interface\Login\Login2.png" />
+    <None Include="img\interface\Login\ready1.png" />
+    <None Include="img\interface\Login\ready2.png" />
+    <None Include="img\interface\Login\send1.png" />
+    <None Include="img\interface\Login\send2.png" />
+    <Content Include="MetroFramework.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

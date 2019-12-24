@@ -1,0 +1,263 @@
+C:\Users\96hye\Desktop\national geographic(ver.6)(횃불적용,무기버튼적용, 무기 이미지미완성 ,공격이미지 미완성,집 미완성) (2)\bin\Debug\national geographic.exe.config
+C:\Users\96hye\Desktop\national geographic(ver.6)(횃불적용,무기버튼적용, 무기 이미지미완성 ,공격이미지 미완성,집 미완성) (2)\bin\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic(ver.6)(횃불적용,무기버튼적용, 무기 이미지미완성 ,공격이미지 미완성,집 미완성) (2)\bin\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\national geographic(ver.6)(횃불적용,무기버튼적용, 무기 이미지미완성 ,공격이미지 미완성,집 미완성) (2)\bin\Debug\MetroFramework.dll
+C:\Users\96hye\Desktop\national geographic(ver.6)(횃불적용,무기버튼적용, 무기 이미지미완성 ,공격이미지 미완성,집 미완성) (2)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\96hye\Desktop\national geographic(ver.6)(횃불적용,무기버튼적용, 무기 이미지미완성 ,공격이미지 미완성,집 미완성) (2)\obj\Debug\national geographic.csprojAssemblyReference.cache
+C:\Users\96hye\Desktop\national geographic(ver.6)(횃불적용,무기버튼적용, 무기 이미지미완성 ,공격이미지 미완성,집 미완성) (2)\obj\Debug\national_geographic.Form1.resources
+C:\Users\96hye\Desktop\national geographic(ver.6)(횃불적용,무기버튼적용, 무기 이미지미완성 ,공격이미지 미완성,집 미완성) (2)\obj\Debug\national_geographic.Inventory.resources
+C:\Users\96hye\Desktop\national geographic(ver.6)(횃불적용,무기버튼적용, 무기 이미지미완성 ,공격이미지 미완성,집 미완성) (2)\obj\Debug\national_geographic.Properties.Resources.resources
+C:\Users\96hye\Desktop\national geographic(ver.6)(횃불적용,무기버튼적용, 무기 이미지미완성 ,공격이미지 미완성,집 미완성) (2)\obj\Debug\national geographic.csproj.GenerateResource.cache
+C:\Users\96hye\Desktop\national geographic(ver.6)(횃불적용,무기버튼적용, 무기 이미지미완성 ,공격이미지 미완성,집 미완성) (2)\obj\Debug\national geographic.csproj.CoreCompileInputs.cache
+C:\Users\96hye\Desktop\national geographic(ver.6)(횃불적용,무기버튼적용, 무기 이미지미완성 ,공격이미지 미완성,집 미완성) (2)\obj\Debug\national geographic.csproj.CopyComplete
+C:\Users\96hye\Desktop\national geographic(ver.6)(횃불적용,무기버튼적용, 무기 이미지미완성 ,공격이미지 미완성,집 미완성) (2)\obj\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic(ver.6)(횃불적용,무기버튼적용, 무기 이미지미완성 ,공격이미지 미완성,집 미완성) (2)\obj\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\national geographic(ver.7)\bin\Debug\national geographic.exe.config
+C:\Users\96hye\Desktop\national geographic(ver.7)\bin\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic(ver.7)\bin\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\national geographic(ver.7)\bin\Debug\MetroFramework.dll
+C:\Users\96hye\Desktop\national geographic(ver.7)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\96hye\Desktop\national geographic(ver.7)\obj\Debug\national geographic.csprojAssemblyReference.cache
+C:\Users\96hye\Desktop\national geographic(ver.7)\obj\Debug\national_geographic.Form1.resources
+C:\Users\96hye\Desktop\national geographic(ver.7)\obj\Debug\national_geographic.Inventory.resources
+C:\Users\96hye\Desktop\national geographic(ver.7)\obj\Debug\national_geographic.Properties.Resources.resources
+C:\Users\96hye\Desktop\national geographic(ver.7)\obj\Debug\national geographic.csproj.GenerateResource.cache
+C:\Users\96hye\Desktop\national geographic(ver.7)\obj\Debug\national geographic.csproj.CoreCompileInputs.cache
+C:\Users\96hye\Desktop\national geographic(ver.7)\obj\Debug\national geographic.csproj.CopyComplete
+C:\Users\96hye\Desktop\national geographic(ver.7)\obj\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic(ver.7)\obj\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\national geographic(ver.7)(공격이미지적용)\bin\Debug\national geographic.exe.config
+C:\Users\96hye\Desktop\national geographic(ver.7)(공격이미지적용)\bin\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic(ver.7)(공격이미지적용)\bin\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\national geographic(ver.7)(공격이미지적용)\bin\Debug\MetroFramework.dll
+C:\Users\96hye\Desktop\national geographic(ver.7)(공격이미지적용)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\96hye\Desktop\national geographic(ver.7)(공격이미지적용)\obj\Debug\national geographic.csprojAssemblyReference.cache
+C:\Users\96hye\Desktop\national geographic(ver.7)(공격이미지적용)\obj\Debug\national_geographic.Form1.resources
+C:\Users\96hye\Desktop\national geographic(ver.7)(공격이미지적용)\obj\Debug\national_geographic.Inventory.resources
+C:\Users\96hye\Desktop\national geographic(ver.7)(공격이미지적용)\obj\Debug\national_geographic.Properties.Resources.resources
+C:\Users\96hye\Desktop\national geographic(ver.7)(공격이미지적용)\obj\Debug\national geographic.csproj.GenerateResource.cache
+C:\Users\96hye\Desktop\national geographic(ver.7)(공격이미지적용)\obj\Debug\national geographic.csproj.CoreCompileInputs.cache
+C:\Users\96hye\Desktop\national geographic(ver.7)(공격이미지적용)\obj\Debug\national geographic.csproj.CopyComplete
+C:\Users\96hye\Desktop\national geographic(ver.7)(공격이미지적용)\obj\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic(ver.7)(공격이미지적용)\obj\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\national geographic(ver.8)(map확장)\obj\Debug\national geographic.csprojAssemblyReference.cache
+C:\Users\96hye\Desktop\national geographic(ver.8)(map확장)\obj\Debug\national_geographic.Form1.resources
+C:\Users\96hye\Desktop\national geographic(ver.8)(map확장)\obj\Debug\national_geographic.Inventory.resources
+C:\Users\96hye\Desktop\national geographic(ver.8)(map확장)\obj\Debug\national_geographic.Properties.Resources.resources
+C:\Users\96hye\Desktop\national geographic(ver.8)(map확장)\obj\Debug\national geographic.csproj.GenerateResource.cache
+C:\Users\96hye\Desktop\national geographic(ver.8)(map확장)\obj\Debug\national geographic.csproj.CoreCompileInputs.cache
+C:\Users\96hye\Desktop\national geographic(ver.8)(map확장)\obj\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic(ver.8)(map확장)\obj\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\national geographic(ver.8)(map확장)\bin\Debug\national geographic.exe.config
+C:\Users\96hye\Desktop\national geographic(ver.8)(map확장)\bin\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic(ver.8)(map확장)\bin\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\national geographic(ver.8)(map확장)\bin\Debug\MetroFramework.dll
+C:\Users\96hye\Desktop\national geographic(ver.8)(map확장)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\96hye\Desktop\national geographic(ver.8)(map확장)\obj\Debug\national geographic.csproj.CopyComplete
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\bin\Debug\national geographic.exe.config
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\bin\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\bin\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\bin\Debug\MetroFramework.dll
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\obj\Debug\national_geographic.Form1.resources
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\obj\Debug\national_geographic.Inventory.resources
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\obj\Debug\national_geographic.Properties.Resources.resources
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\obj\Debug\national geographic.csproj.GenerateResource.cache
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\obj\Debug\national geographic.csproj.CoreCompileInputs.cache
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\obj\Debug\national geographic.csproj.CopyComplete
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\obj\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\obj\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\obj\Debug\national_geographic.memberjoin.resources
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\obj\Debug\national geographic.csprojAssemblyReference.cache
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\bin\Debug\MySql.Data.dll
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\bin\Debug\Google.Protobuf.dll
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\bin\Debug\MySql.Data.xml
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\obj\Debug\national_geographic.Login.resources
+C:\Users\96hye\Desktop\national geographic(ver.9)(울타리문 제작)\obj\Debug\national_geographic.waitForm.resources
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\bin\Debug\national geographic.exe.config
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\bin\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\bin\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\bin\Debug\MetroFramework.dll
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\bin\Debug\MySql.Data.dll
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\bin\Debug\Google.Protobuf.dll
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\bin\Debug\MySql.Data.xml
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\obj\Debug\national geographic.csprojAssemblyReference.cache
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\obj\Debug\national_geographic.Form1.resources
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\obj\Debug\national_geographic.Inventory.resources
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\obj\Debug\national_geographic.Login.resources
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\obj\Debug\national_geographic.memberjoin.resources
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\obj\Debug\national_geographic.Properties.Resources.resources
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\obj\Debug\national_geographic.waitForm.resources
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\obj\Debug\national geographic.csproj.GenerateResource.cache
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\obj\Debug\national geographic.csproj.CoreCompileInputs.cache
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\obj\Debug\national geographic.csproj.CopyComplete
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\obj\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic(ver.10)(로그인창,대기창,DB,TCP통신)\obj\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\national geographic.exe.config
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\MetroFramework.dll
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\MySql.Data.dll
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\Google.Protobuf.dll
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\MySql.Data.xml
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national geographic.csprojAssemblyReference.cache
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national_geographic.Form1.resources
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national_geographic.Inventory.resources
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national_geographic.Login.resources
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national_geographic.memberjoin.resources
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national_geographic.Properties.Resources.resources
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national_geographic.waitForm.resources
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national geographic.csproj.GenerateResource.cache
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national geographic.csproj.CoreCompileInputs.cache
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national geographic.csproj.CopyComplete
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national geographic.pdb
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\national geographic.exe.config
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\national geographic.exe
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\national geographic.pdb
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\MetroFramework.dll
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\MetroFramework.Fonts.dll
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\Google.Protobuf.dll
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\BouncyCastle.Crypto.dll
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\MySql.Data.xml
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national geographic.csprojAssemblyReference.cache
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national_geographic.Form1.resources
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national_geographic.Inventory.resources
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national_geographic.Login.resources
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national_geographic.memberjoin.resources
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national_geographic.Properties.Resources.resources
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national_geographic.waitForm.resources
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national geographic.csproj.GenerateResource.cache
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national geographic.csproj.CopyComplete
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national geographic.exe
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national geographic.pdb
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\bin\Debug\MySql.Data.dll
+D:\national geographic(ver.11)(준비가3이면 폼띄우기완료)\obj\Debug\national geographic.csproj.CoreCompileInputs.cache
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\national geographic.exe.config
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\MetroFramework.dll
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\MySql.Data.dll
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\Google.Protobuf.dll
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\MySql.Data.xml
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.csprojAssemblyReference.cache
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.Form1.resources
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.Inventory.resources
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.Login.resources
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.memberjoin.resources
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.Properties.Resources.resources
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.waitForm.resources
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.csproj.GenerateResource.cache
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.csproj.CoreCompileInputs.cache
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.csproj.CopyComplete
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.pdb
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\national geographic.exe.config
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\national geographic.exe
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\national geographic.pdb
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\MetroFramework.dll
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\MySql.Data.xml
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.csprojAssemblyReference.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.Form1.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.Inventory.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.Login.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.memberjoin.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.Properties.Resources.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.waitForm.resources
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.csproj.GenerateResource.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.csproj.CopyComplete
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.exe
+C:\Users\USER\Documents\카카오톡 받은 파일\Desktop (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\national geographic.exe.config
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\national geographic.exe
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\MetroFramework.dll
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\MySql.Data.dll
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\Google.Protobuf.dll
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\MySql.Data.xml
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.csprojAssemblyReference.cache
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.Form1.resources
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.Inventory.resources
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.Login.resources
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.memberjoin.resources
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.Properties.Resources.resources
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.waitForm.resources
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.csproj.GenerateResource.cache
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.csproj.CoreCompileInputs.cache
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.csproj.CopyComplete
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.exe
+C:\Users\96hye\Desktop\Desktop (2) (2)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\national geographic.exe.config
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\national geographic.exe
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\MetroFramework.dll
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\MySql.Data.dll
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\Google.Protobuf.dll
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\bin\Debug\MySql.Data.xml
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.csprojAssemblyReference.cache
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.Form1.resources
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.Inventory.resources
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.Login.resources
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.memberjoin.resources
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.Properties.Resources.resources
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national_geographic.waitForm.resources
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.csproj.GenerateResource.cache
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.csproj.CoreCompileInputs.cache
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.csproj.CopyComplete
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.exe
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.12)(homeclass만들어야함)\obj\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\bin\Debug\national geographic.exe.config
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\bin\Debug\national geographic.exe
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\bin\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\bin\Debug\MetroFramework.dll
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\bin\Debug\MySql.Data.dll
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\bin\Debug\Google.Protobuf.dll
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\bin\Debug\MySql.Data.xml
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\obj\Debug\national geographic.csprojAssemblyReference.cache
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\obj\Debug\national_geographic.Form1.resources
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\obj\Debug\national_geographic.Inventory.resources
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\obj\Debug\national_geographic.Login.resources
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\obj\Debug\national_geographic.memberjoin.resources
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\obj\Debug\national_geographic.Properties.Resources.resources
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\obj\Debug\national geographic.csproj.GenerateResource.cache
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\obj\Debug\national geographic.csproj.CoreCompileInputs.cache
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\obj\Debug\national geographic.csproj.CopyComplete
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\obj\Debug\national geographic.exe
+C:\Users\96hye\Desktop\Desktop (3)\national geographic(ver.13)(player정보받음,사용해야함)\obj\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\bin\Debug\national geographic.exe.config
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\bin\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\bin\Debug\national geographic.pdb
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\bin\Debug\MetroFramework.dll
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\bin\Debug\MySql.Data.dll
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\bin\Debug\Google.Protobuf.dll
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\bin\Debug\MySql.Data.xml
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\obj\Debug\national geographic.csprojAssemblyReference.cache
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\obj\Debug\national_geographic.Form1.resources
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\obj\Debug\national_geographic.Inventory.resources
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\obj\Debug\national_geographic.Login.resources
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\obj\Debug\national_geographic.memberjoin.resources
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\obj\Debug\national_geographic.Properties.Resources.resources
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\obj\Debug\national geographic.csproj.GenerateResource.cache
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\obj\Debug\national geographic.csproj.CoreCompileInputs.cache
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\obj\Debug\national geographic.csproj.CopyComplete
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\obj\Debug\national geographic.exe
+C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\obj\Debug\national geographic.pdb
