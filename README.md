@@ -73,7 +73,7 @@ National Geographic
 <summary>플레이 영상</summary>  
 <div markdown="1">
   
-* [유튜브 링크](https://youtu.be/er4IDt__t9c, "youtube link")
+* [![내셔널 지오그래픽](http://img.youtube.com/vi/er4IDt__t9c/0.jpg)](https://youtu.be/er4IDt__t9c) 
 </div>
 </details>
 
