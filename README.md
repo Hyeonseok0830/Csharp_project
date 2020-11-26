@@ -1,5 +1,3 @@
-### README.md
-
 National Geographic
 =============
 <details>
@@ -71,6 +69,12 @@ National Geographic
 </div>
 </details>
 
-
+<details>
+<summary>플레이 영상</summary>  
+<div markdown="1">
+  
+* [유튜브 링크](https://youtu.be/er4IDt__t9c, "youtube link")
+</div>
+</details>
 
 
