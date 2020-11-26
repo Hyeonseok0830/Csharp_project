@@ -70,10 +70,9 @@ National Geographic
 </details>
 
 <details>
-<summary>플레이 영상</summary>  
+<summary>플레이 영상링크</summary>  
 <div markdown="1">
 
-* 클릭 시 유튜브 채널로 연결됩니다.
  [![내셔널 지오그래픽](http://img.youtube.com/vi/er4IDt__t9c/0.jpg)](https://youtu.be/er4IDt__t9c) 
 </div>
 </details>
