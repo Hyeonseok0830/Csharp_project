@@ -5,7 +5,9 @@ National Geographic
 <details>
 <summary>개발 환경</summary>  
 <div markdown="1">
-
+  
+* C#
+* MYSQL
 </div>
 </details>
 
