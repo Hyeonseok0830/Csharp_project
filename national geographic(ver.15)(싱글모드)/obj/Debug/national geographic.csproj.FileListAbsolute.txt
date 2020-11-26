@@ -261,3 +261,22 @@ C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geo
 C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\obj\Debug\national geographic.csproj.CopyComplete
 C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\obj\Debug\national geographic.exe
 C:\Users\96hye\Desktop\national geographic 개발과정\Desktop (3)\national geographic(ver.15)(싱글모드)\obj\Debug\national geographic.pdb
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\bin\Debug\national geographic.exe.config
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\bin\Debug\national geographic.exe
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\bin\Debug\national geographic.pdb
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\bin\Debug\MetroFramework.dll
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\bin\Debug\MetroFramework.Fonts.dll
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\bin\Debug\Google.Protobuf.dll
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\bin\Debug\BouncyCastle.Crypto.dll
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\bin\Debug\MySql.Data.xml
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\obj\Debug\national geographic.csprojAssemblyReference.cache
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\obj\Debug\national_geographic.Form1.resources
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\obj\Debug\national_geographic.Inventory.resources
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\obj\Debug\national_geographic.Login.resources
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\obj\Debug\national_geographic.memberjoin.resources
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\obj\Debug\national_geographic.Properties.Resources.resources
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\obj\Debug\national geographic.csproj.GenerateResource.cache
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\obj\Debug\national geographic.csproj.CoreCompileInputs.cache
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\obj\Debug\national geographic.csproj.CopyComplete
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\obj\Debug\national geographic.exe
+D:\GitHub\Csharp_project\national geographic(ver.15)(싱글모드)\obj\Debug\national geographic.pdb

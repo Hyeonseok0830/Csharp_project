@@ -20,7 +20,7 @@ namespace national_geographic
         Bitmap join2 = Properties.Resources.Join2;
 
         MySqlConnection connection =
-        new MySqlConnection("Server=localhost;Database=ng_test_member;Uid=root;Pwd=apple;");
+        new MySqlConnection("Server=localhost;Database=ng_test_member;Uid=root;Pwd=knu2020!;");
         //서버     //DB이름      // 유저이름  //비밀번호
         public memberjoin()
         {
